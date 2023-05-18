@@ -58,7 +58,7 @@ python train_yolov5_CA.py --img 640 --data data/RDD2020_SODRv1.yaml --epochs 100
 **Note:** the trained weights will be saved in ```runs/train/exp/weights```, and use the *last.pt* rather than *best.pt*.
 
 ## Test
-1. You can download our trained models on [baiduyun](https://pan.baidu.com/s/1NTEtPBrGtw7Ptlad8doZzw?pwd=ffvt) (ffvt) or [google drive](https://drive.google.com/drive/folders/1N3cszrA8i6FY196oCO8S4qVhn4V8filD?usp=sharing). Please move it to "weights/train".
+1. You can download our trained models on [baiduyun](https://pan.baidu.com/s/1NTEtPBrGtw7Ptlad8doZzw?pwd=ffvt) (ffvt) or [google drive](https://drive.google.com/drive/folders/1N3cszrA8i6FY196oCO8S4qVhn4V8filD?usp=sharing). Please move it to ```weights/train```.
 
 2. Test YOLOv5 without test time augmentation:
 ```
