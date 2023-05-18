@@ -77,3 +77,6 @@ python val.py --data data/RDD2020_SODRv1.yaml --weights weights/train/yolov5_sod
 
 ## Acknowledgements
 This code is based on [YOLOv5](https://github.com/ultralytics/yolov5/tree/v6.0). We thank the authors for sharing codes.
+
+## Contact
+If you have any questions, please contact me with email (sxwang.w@gmail.com)
