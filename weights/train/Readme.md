@@ -1,0 +1,1 @@
+You can download our trained models on [baiduyun](https://pan.baidu.com/s/1NTEtPBrGtw7Ptlad8doZzw?pwd=ffvt) (ffvt) or [google drive](https://drive.google.com/drive/folders/1N3cszrA8i6FY196oCO8S4qVhn4V8filD?usp=sharing). Please move it to "weights/train".

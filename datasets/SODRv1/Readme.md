@@ -1,0 +1,1 @@
+Please download and unzip our **SODR dataset** from [baiduyun](https://pan.baidu.com/s/1BhvnxnlPwPdHBokhK1EGkA?pwd=94y3) (94y3) or [google drive](https://drive.google.com/file/d/1uDj-ior96CTLAMNTb0XKo9j-YUaGQH0c/view?usp=sharing).

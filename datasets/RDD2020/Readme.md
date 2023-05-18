@@ -1,0 +1,1 @@
+Please download **train.tar.gz** from [RDD2020](https://data.mendeley.com/datasets/5ty2wb6gvg/2).
